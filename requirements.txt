@@ -1,0 +1,17 @@
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+sentencepiece
+pandas
+scikit-learn
+nltk
+evaluate
+python-docx
+pdfplumber
+torch
+requests
+rouge-score
+sacrebleu
+tqdm
